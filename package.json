@@ -1,0 +1,22 @@
+{
+  "name": "nodeproject",
+  "version": "1.0.0",
+  "description": "learning node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "npm"
+  ],
+  "author": "Anastasiya Samotiya <Anastasiya_Samotiya@epam.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "babel-register": "^6.26.0"
+  }
+}
